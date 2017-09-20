@@ -1,6 +1,4 @@
-# intercom_task
+### Intercom home task
 
-Solution of intercom home task
-
-* [Task 2 - Flattener](/task_1)
-* [Task 3 - Inviter](/task_2)
+* [Task 2 - Flattener](/task_2)
+* [Task 3 - Inviter](/task_3)
