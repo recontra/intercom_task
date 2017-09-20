@@ -1,0 +1,5 @@
+{"latitude": "53.3488285", "user_id": 10, "name": "User in Dublin", "longitude": "-6.2393137"}
+{"latitude": "53.426092", "user_id": 1, "name": "User in Dublin Airport", "longitude": "-6.2478748"}
+{"latitude": "51.8960902", "user_id": 2, "name": "User in Cork", "longitude": "-8.5330897"}
+{"latitude": "40.6976701", "user_id": 3, "name": "User in NY", "longitude": "-74.2598685"}
+{"latitude": "52.8075463", "user_id": 4, "name": "User in Galway", "longitude": "-8.9426673"}
